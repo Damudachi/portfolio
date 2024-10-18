@@ -52,6 +52,7 @@ nav li a {
   color: maroon;
   font-family: Lalezar;
   font-size: 1.7em;
+  transition: all 0.3s ease-in-out;
  
 }
 
@@ -60,6 +61,7 @@ nav li a:hover {
   color: maroon;
   font-family: Lalezar;
   font-size: 2em;
+  
 }
 .nav_toggle,
     .nav_close {
@@ -267,6 +269,7 @@ nav li a:hover {
   width: 600px;
   margin:50px;
   position: absolute;
+  transition: all 0.3s ease-in-out;
 }
 
 
@@ -285,6 +288,7 @@ nav li a:hover {
   width: 600px;
   margin:60px;
   position: absolute;
+  transition: all 0.3s ease-in-out;
 }
 .gradientpubmat2{
   background: linear-gradient(maroon  ,beige);
@@ -301,6 +305,7 @@ nav li a:hover {
   width: 600px;
   margin:50px;
   position: absolute;
+  transition: all 0.3s ease-in-out;
 }
 
 
