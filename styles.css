@@ -1108,16 +1108,16 @@ tr:nth-child(even) td{
 }
 
 th{
-  font-size: 2.5em;
+  font-size: 2em;
   
 }
 .gradienttable2{
   bottom: 50px;
-  height:350px;
+  height:400px;
 }
 /* -----------CONTACTS MOBILE ----------- */
 .subject input{
-  width: 60%;
+  width: 30vw;
   font-size: 10px;
   margin-bottom: 40px;
 }
